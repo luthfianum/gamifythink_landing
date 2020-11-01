@@ -1,0 +1,26 @@
+html{
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: black !important;
+}
+.btn{
+    padding: 10px 28px;
+
+}
+.btn-primary{
+    color: #A7550C ;
+    background-color: #FFAF68 ;
+    border-radius: 5px;
+    border: none;
+}
+.right{
+    float: right;
+}
+.left{
+    float: left;
+}
