@@ -48,14 +48,19 @@ body{
     border-radius: 10px;
     margin-top: 5rem;
 }
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
 .box-atas{
-    background-color: #1C4F94;
+    background-color: #F5F3EF;
     width: 100%;
     height: 100px;
     border-radius: 0px 0px 100px 0px;
 }
 .box-kanan{
-    background-color: #1C4F94;
+    background-color: #F5F3EF;
     position: absolute;
     right: 0px;
     height: auto;
@@ -67,7 +72,7 @@ body{
     color: #fff;
 }
 .box-bawah{
-    background-color: #1C4F94;
+    background-color: #F5F3EF;
     width: 100%;
     height: 100px;
     border-radius: 0px 100px 0px 0px;
