@@ -10,10 +10,7 @@ function scrollFunction() {
         element.style.color = "#fff";
         element.style.setProperty('--nav-link-line','#fff');
     });
-    
     brand_logo.src = "./asset/logo-white.svg";
-    
-
   } else {
     nav.style.backgroundColor = "";
     nav_link.forEach(element => {

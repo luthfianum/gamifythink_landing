@@ -167,6 +167,30 @@ nav + .scroll{
     max-height: 200px;
     max-width: 100%;
 }
+.modal-header{
+    padding: 0px;
+}
+.img-modal{
+    width: 100%;
+}
+.close{
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    color: #fff;
+}
+.modal-body-title{
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 42px;
+}
+.modal-body-para{
+    font-size: 16px;
+    line-height: 30px;
+}
+.modal-footer{
+    border: 0px;
+}
 .footer-title{
     color: #fff;
     font-size: 1.25rem;
