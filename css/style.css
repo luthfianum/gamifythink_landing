@@ -4,8 +4,7 @@ body{
     ;
 }
 .container, .container-lg, .container-md, .container-sm, .container-xl{
-    max-width: 1300px;
-
+    max-width: 1250px;
 }
 nav > .nav-link + .scroll{
     color: #fff
@@ -60,6 +59,10 @@ nav + .scroll{
     width: 10px;
     height: 10px;
     border-radius: 100%;
+}
+.carousel-control-next, .carousel-control-prev{
+    top:50px;
+    width:10%;
 }
 .box-atas{
     background-color: #F5F3EF;
@@ -244,3 +247,5 @@ nav + .scroll{
 .left{
     float: left;
 }
+
+
